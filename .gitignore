@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+.idea/
+pyvenv.cfg
+companies.csv
+gecodriver.log
